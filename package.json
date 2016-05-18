@@ -1,0 +1,17 @@
+{
+  "name": "sequelizee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "mysql": "^2.10.2",
+    "sequelize": "^3.23.2"
+  }
+}
